@@ -1,0 +1,9 @@
+aiogram-inline-paginations==0.1.12
+asyncio==3.4.3
+asyncpg==0.29.0
+environs==10.3.0
+more-itertools==10.2.0
+pip-chill==1.0.3
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.27
+telegram==0.0.1
